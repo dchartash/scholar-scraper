@@ -1,5 +1,11 @@
 Scholar Scraper
 ===============
+@dchartash
+This code is modified from the version written by Jimmy Lin to operate on the Regenstrief Institute researchers.
+This modification changes the base index file removing the previous multiplicity of results provided by Jimmy Lin's original code.
+His README follows, for a more accurate description, see the github repository.
+
+* * *
 
 I wrote this simple utility to scrape citation statistics of researcher profiles on [Google Scholar](http://scholar.google.com/), using it as an opportunity to learn [node.js](http://nodejs.org/). I began with a list of information retrieval researchers, but have since expanded to include a separate list of researchers in human-computer interaction. The results are [here](http://lintool.github.io/scholar-scraper/).
 
