@@ -1,4 +1,4 @@
-var date = "Fri Dec 02 2016 23:15:13 GMT-0500 (EST)"
+var date = "Fri Dec 02 2016 23:55:30 GMT-0500 (EST)"
 var data = [
   {
     "name": "Paul G Biondich",
@@ -35,8 +35,8 @@ var data = [
     "url": "https://scholar.google.com/citations?user=6dncqlIAAAAJ",
     "stats": {
       "citations": [
-        "3465",
-        "1414"
+        "3464",
+        "1413"
       ],
       "hindex": [
         "26",
@@ -63,8 +63,8 @@ var data = [
     "url": "https://scholar.google.com/citations?user=E6ehgh4AAAAJ",
     "stats": {
       "citations": [
-        "680",
-        "631"
+        "682",
+        "633"
       ],
       "hindex": [
         "15",
@@ -196,8 +196,8 @@ var data = [
     "url": "https://scholar.google.com/citations?user=r39o3wsAAAAJ",
     "stats": {
       "citations": [
-        "2111",
-        "1199"
+        "2115",
+        "1203"
       ],
       "hindex": [
         "24",
@@ -265,5 +265,130 @@ var data = [
       ]
     },
     "year": "1999"
+  },
+  {
+    "name": "Thankam Thyvalikakath",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=q6pBywIAAAAJ&citpid=3",
+    "keywords": [
+      "Dentistry/Oral & Maxillofacial Surgery",
+      "Biomedical/Dental Informatics",
+      "Clinical Research",
+      "Cognitive Engineering Meth"
+    ],
+    "affiliation": "Associate Professor & Director of Dental Informatics",
+    "url": "https://scholar.google.com/citations?user=q6pBywIAAAAJ",
+    "stats": {
+      "citations": [
+        "299",
+        "244"
+      ],
+      "hindex": [
+        "9",
+        "8"
+      ],
+      "i10index": [
+        "9",
+        "8"
+      ]
+    },
+    "year": "2006"
+  },
+  {
+    "name": "Daniel Vreeman",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WsJVDIEAAAAJ&citpid=4",
+    "keywords": [
+      "Medical informatics",
+      "electronic health records",
+      "vocabulary standards",
+      "health data standards",
+      "health information exchange"
+    ],
+    "affiliation": "Regenstrief-McDonald Scholar in Data Standards, Indiana University School of Medicine; Research",
+    "url": "https://scholar.google.com/citations?user=WsJVDIEAAAAJ",
+    "stats": {
+      "citations": [
+        "545",
+        "400"
+      ],
+      "hindex": [
+        "13",
+        "12"
+      ],
+      "i10index": [
+        "15",
+        "14"
+      ]
+    },
+    "year": "2004"
+  },
+  {
+    "name": "Christopher A Harle",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ovymdK4AAAAJ&citpid=1",
+    "keywords": [
+      "decision making",
+      "health care information systems",
+      "biomedical informatics"
+    ],
+    "affiliation": "Associate Professor of Health Policy and Management, IU Richard M. Fairbanks School of Public Health",
+    "url": "https://scholar.google.com/citations?user=ovymdK4AAAAJ",
+    "stats": {
+      "citations": [
+        "233",
+        "224"
+      ],
+      "hindex": [
+        "9",
+        "9"
+      ],
+      "i10index": [
+        "6",
+        "5"
+      ]
+    },
+    "year": "2008"
+  },
+  {
+    "name": "Joshua R Vest",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=eskRXSkAAAAJ&citpid=1",
+    "keywords": [],
+    "affiliation": "Indiana University Richard M. Fairbanks School of Public Health at IUPUI",
+    "url": "https://scholar.google.com/citations?user=eskRXSkAAAAJ",
+    "stats": {
+      "citations": [
+        "1989",
+        "1474"
+      ],
+      "hindex": [
+        "20",
+        "20"
+      ],
+      "i10index": [
+        "30",
+        "29"
+      ]
+    },
+    "year": "2003"
+  },
+  {
+    "name": "Nir Menachemi",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BeGEdEYAAAAJ&citpid=1",
+    "keywords": [],
+    "affiliation": "Professor and Chair, Indiana University, Health Policy and Management",
+    "url": "https://scholar.google.com/citations?user=BeGEdEYAAAAJ",
+    "stats": {
+      "citations": [
+        "4135",
+        "3044"
+      ],
+      "hindex": [
+        "35",
+        "28"
+      ],
+      "i10index": [
+        "90",
+        "77"
+      ]
+    },
+    "year": "2005"
   }
 ];
